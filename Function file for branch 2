@@ -1,0 +1,4 @@
+public void function()
+{
+  print("Hello branch 2");
+}
